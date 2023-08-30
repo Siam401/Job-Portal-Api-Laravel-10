@@ -1,0 +1,50 @@
+[
+  {
+    "table": "jobs",
+    "rows": [
+      {
+        "category": "default",
+        "title": "Software Engineer",
+        "wing_id": 4,
+        "branch_id": 5,
+        "job_function_id": 4,
+        "vacancy": "4",
+        "code": "202307131069",
+        "status": 1,
+        "start_date": "2023-07-10",
+        "end_date": "2023-08-31",
+        "created_at": "2023-07-13 06:41:31",
+        "updated_at": "2023-07-13 06:41:31",
+        "deleted_at": null
+      }
+    ]
+  },
+  {
+    "table": "job_details",
+    "rows": [
+      {
+        "job_id": 1,
+        "job_type": "full_time",
+        "workplace": "office",
+        "salary": "50000",
+        "gender": "any",
+        "form_visibility": "photo,cover_letter",
+        "questions": "1,2",
+        "skills": "[{\"value\":\"php\"},{\"value\":\"mysql\"},{\"value\":\"react\"}]",
+        "description": "<ol>\r\n<li>To play role as a full Stack Developer.</li>\r\n<li>Analyze, design, coordinate and supervise the development of software systems to form a basis for the solution of information processing problems.</li>\r\n<li>Analyze system specifications and translate system requirements to task specifications.</li>\r\n<li>Write codes to develop software system as specified Assist junior programmers with assigned programming assignments.</li>\r\n<li>Provide assistance to software testers and support personnel as needed to determine system problems.</li>\r\n<li>Provide feedback to analysis/training staff about performance considerations / usability issues concerning software specifications and implementation.</li>\r\n<li>Respond promptly and professionally to bug reports and review, refactor/repair legacy codes</li>\r\n<li>Provide recommendations to management concerning issues of programmer productivity and software development management.</li>\r\n</ol>",
+        "responsibility": "<ol>\r\n<li>Provide assistance to software testers and support personnel as needed to determine system problems</li>\r\n<li>Provide feedback to analysis/training staff about performance considerations / usability issues concerning software specifications and implementation.</li>\r\n<li>Respond promptly and professionally to bug reports and review, refactor/repair legacy codes.</li>\r\n<li>Provide recommendations to management concerning issues of programmer productivity and software development management.</li>\r\n</ol>",
+        "education": "<p>Skills Required: Adobe illustrator, Adobe Photoshop</p>",
+        "benefit": "<p>Probationary period: Six months; after successful completion of the probationary period, salary will be increased as per salary structure of the organization.</p>\r\n<p>After confirmation as a permanent staff, she/he will have entitled three festival bonuses, Welfare facilities and other benefits as per organization policy.</p>\r\n<p>Weekly 2 Holidays</p>",
+        "additional": "<ol>\r\n<li>Strong OO design and programming skills</li>\r\n<li>Strong understanding of PHP, Laravel back-end development.</li>\r\n<li>Good understanding of front-end technologies, including HTML5, CSS3, JavaScript, jQuery.</li>\r\n<li>Logical thinking and creative problem-solving ability</li>\r\n<li>Ability to multi-task and stay organized in a dynamic work environment.</li>\r\n<li>Ability to learn new programming languages quickly.</li>\r\n<li>Ability to analyze and determine whether a particular problem is caused by hardware, operating systems software, application programs, or network failures.</li>\r\n<li>Plan, process and perform all assigned jobs in an efficient manner with minimum/no assistance from the supervisor</li>\r\n<li>The candidate should have experience/exposure to the followings: Database (MySQL, SQLite or similar database management system)</li>\r\n<li>Skill in Node .Js &amp; React .Js</li>\r\n<li>API Development &amp; Integration.</li>\r\n</ol>",
+        "age_min": 10,
+        "age_max": 25,
+        "is_exp_required": 1,
+        "experience": "<p>At least 3 year(s)</p>\r\n<p>The applicants should have experience in the following area(s): Graphics Design</p>\r\n<p>The applicants should have experience in the following business area(s): Design/Printing/Publishing</p>",
+        "min_exp": 3,
+        "max_exp": null,
+        "created_at": "2023-07-13 06:41:31",
+        "updated_at": "2023-07-13 06:41:31"
+      }
+    ]
+  }
+]

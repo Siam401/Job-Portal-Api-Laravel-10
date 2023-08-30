@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "title": "Find the perfect job for you",
+        "slug": "banner",
+        "subtitle": "Search your career opportunity through Next jobs",
+        "image": "frontend/hero.png",
+        "description": "",
+        "is_active": 1,
+        "extra": ""
+    },
+    {
+        "id": 2,
+        "title": "About Us",
+        "slug": "about-us",
+        "subtitle": "About Next IT Career",
+        "image": "frontend/feature-2.png",
+        "description": "Deliver great service experiences fast - without the complexity of traditional ITSM solutions. Accelerate critical development work, eliminate toil, and deploy changes with ease. Deliver great service experiences fast - without the complexity of traditional ITSM solutions. Accelerate critical development work, eliminate toil, and deploy changes with ease.",
+        "is_active": 1,
+        "extra": [
+            {
+                "text": "Deliver great service experiences fast - without the complex of tradition ITSM solutions. Deliver great service experiences the complexity of traditional solutions."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Facilities & Benefits",
+        "slug": "facilities-benefits",
+        "subtitle": "To make us more growing, Here are our best Facilities & Benefits",
+        "image": "",
+        "description": "Our rigorous security and compliance standards are at the heart of all we do. We work tirelessly to protect you and your customers. Our rigorous security and compliance standards are at the heart of all we do. We work tirelessly to protect you and your customers.",
+        "is_active": 1,
+        "extra": ""
+    },
+    {
+        "id": 4,
+        "title": "FAQ",
+        "slug": "faq",
+        "subtitle": "Frequently Ask Questions",
+        "image": "frontend/faq.png",
+        "description": "We found answers of those Questions regarding job",
+        "is_active": 1,
+        "extra": ""
+    },
+    {
+        "id": 5,
+        "title": "How to Apply",
+        "slug": "how-to-apply",
+        "subtitle": "Let's get a help to apply your perfect job",
+        "image": "frontend/how.png",
+        "description": "",
+        "is_active": 1,
+        "extra": ""
+    },
+    {
+        "id": 6,
+        "title": "Wings",
+        "slug": "job-wings",
+        "subtitle": "Wings wise jobs",
+        "image": "",
+        "description": "",
+        "is_active": 1,
+        "extra": ""
+    },
+    {
+        "id": 7,
+        "title": "Job Cities",
+        "slug": "job-cities",
+        "subtitle": "Jobs by Cities",
+        "image": "",
+        "description": "Click on the location to reveal all jobs on that place.",
+        "is_active": 1,
+        "extra": ""
+    }
+]

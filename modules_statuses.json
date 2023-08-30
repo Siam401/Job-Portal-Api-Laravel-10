@@ -1,0 +1,14 @@
+{
+    "Applicant": true,
+    "User": true,
+    "Frontend": true,
+    "Job": true,
+    "Location": true,
+    "Company": true,
+    "JobApplication": true,
+    "Employee": true,
+    "Settings": true,
+    "ApplicantInformation": false,
+    "JobInterview": true,
+    "Notification": true
+}

@@ -1,0 +1,42 @@
+[
+  {
+      "id": 1,
+      "name": "PSC / 5 Pass",
+      "serial": 1
+  },
+  {
+      "id": 2,
+      "name": "JSC / JDC / 8 Pass",
+      "serial": 2
+  },
+  {
+      "id": 3,
+      "name": "Secondary / SSC / Dakhil / O Level",
+      "serial": 3
+  },
+  {
+      "id": 4,
+      "name": "Higher Secondary / HSC / Alim / A Level",
+      "serial": 4
+  },
+  {
+      "id": 5,
+      "name": "Diploma",
+      "serial": 5
+  },
+  {
+      "id": 6,
+      "name": "Bachelor / Honors",
+      "serial": 6
+  },
+  {
+      "id": 7,
+      "name": "Masters",
+      "serial": 7
+  },
+  {
+      "id": 8,
+      "name": "PHD / Doctorate",
+      "serial": 8
+  }
+]

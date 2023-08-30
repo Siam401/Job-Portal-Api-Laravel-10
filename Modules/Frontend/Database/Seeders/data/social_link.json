@@ -1,0 +1,42 @@
+[
+  {
+    "title": "facebook",
+    "url": "https://www.facebook.com",
+    "icon_image": "<i class=\"fab fa-facebook-f\"></i>",
+    "icon_type": "html",
+    "serial": 1,
+    "is_active": 1
+  },
+  {
+    "title": "twitter",
+    "url": "https://www.twitter.com",
+    "icon_image": "<i class=\"fab fa-twitter\"></i>",
+    "icon_type": "html",
+    "serial": 2,
+    "is_active": 1
+  },
+  {
+    "title": "linkedin",
+    "url": "https://www.linkedin.com",
+    "icon_image": "<i class=\"fab fa-linkedin\"></i>",
+    "icon_type": "html",
+    "serial": 3,
+    "is_active": 1
+  },
+  {
+    "title": "youtube",
+    "url": "https://www.youtube.com",
+    "icon_image": "<i class=\"fab fa-youtube\"></i>",
+    "icon_type": "html",
+    "serial": 4,
+    "is_active": 1
+  },
+  {
+    "title": "google",
+    "url": "https://www.google.com",
+    "icon_image": "<i class=\"fab fa-google\"></i>",
+    "icon_type": "html",
+    "serial": 5,
+    "is_active": 1
+  }
+]

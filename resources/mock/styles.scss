@@ -1,0 +1,46 @@
+// Loading Select2
+@import "/node_modules/select2/dist/css/select2.css";
+
+// Loading Font Awesome
+$fa-font-path: '~fontawesome/webfonts';
+@import '~fontawesome/scss/fontawesome';
+@import '~fontawesome/scss/brands';
+@import '~fontawesome/scss/solid';
+
+// Loading Tailwind
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Custom CSS
+.tox .tox-promotion {
+    display: none !important;
+}
+
+.select2-container--default .select2-selection--multiple,
+.select2-container--default.select2-container--focus
+    .select2-selection--multiple {
+    padding: 7px;
+    --tw-text-opacity: 1;
+    color: rgb(17 24 39 / var(--tw-text-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgb(249 250 251 / var(--tw-bg-opacity));
+    --tw-border-opacity: 1;
+    border-color: rgb(209 213 219 / var(--tw-border-opacity));
+}
+
+.select2-container--default
+    .select2-selection--multiple
+    .select2-selection__choice {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 4px;
+}
+
+.tab-active-link {
+    @apply inline-block p-4 text-blue-600 border-b-2 border-blue-600 rounded-t-lg  dark:text-blue-500 dark:border-blue-500;
+}
+
+.tab-inactive-link {
+    @apply inline-block p-4 border-b-2 border-transparent rounded-t-lg hover:text-gray-600 hover:border-gray-300 dark:hover:text-gray-300;
+}

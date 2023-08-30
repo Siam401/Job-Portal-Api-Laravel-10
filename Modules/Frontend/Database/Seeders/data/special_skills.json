@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Data Entry / Computer Operator",
+    "name_bangla": "ডাটা এন্ট্রি/কম্পিউটার অপারেটর"
+  },
+  {
+    "name": "Mechanic / Technician",
+    "name_bangla": "মেকানিক/টেকনিশিয়ান"
+  },
+  {
+    "name": "Peon",
+    "name_bangla": "পিয়ন"
+  },
+  {
+    "name": "Nurse",
+    "name_bangla": "নার্স"
+  },
+  {
+    "name": "Cleaner",
+    "name_bangla": "ক্লিনার"
+  },
+  {
+    "name": "Gardener",
+    "name_bangla": "মালী"
+  },
+  {
+    "name": "Security Guard",
+    "name_bangla": "সিকিউরিটি গার্ড"
+  },
+  {
+    "name": "Carpenter",
+    "name_bangla": "কার্পেন্টার"
+  },
+  {
+    "name": "Showroom Executive/Salesman",
+    "name_bangla": "শো-রুম সহকারী/সেলসম্যান"
+  },
+  {
+    "name": "Sales Representative",
+    "name_bangla": "সেলস রিপ্রেজেন্টেটিভ"
+  },
+  {
+    "name": "Waiter/Waitress",
+    "name_bangla": "ওয়েটার/ওয়েট্রেস"
+  },
+  {
+    "name": "Other",
+    "name_bangla": "অন্যান্য"
+  }
+]

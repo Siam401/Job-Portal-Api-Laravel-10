@@ -1,0 +1,117 @@
+[
+    {
+        "section_id": 1,
+        "items": []
+    },
+    {
+        "section_id": 2,
+        "items": [
+            {
+                "title": "Dynamic reports and dashboards"
+            },
+            {
+                "title": "Templates for everyone"
+            },
+            {
+                "title": "Development workflow"
+            },
+            {
+                "title": "Limitless business automation"
+            },
+            {
+                "title": "Knowledge management"
+            }
+        ]
+    },
+    {
+        "section_id": 3,
+        "items": [
+            {
+                "image_url": "frontend/benefits/1.png",
+                "title": "Yearly Salary Review",
+                "sub_title": "For Landwind, with zero maintenance downtime"
+            },
+            {
+                "image_url": "frontend/benefits/2.png",
+                "title": "Performance Bonus",
+                "sub_title": "Trusted by over 600 milion users around the world"
+            },
+            {
+                "image_url": "frontend/benefits/3.png",
+                "title": "Festival Bonus",
+                "sub_title": "Trusted by over 600 milion users around the world"
+            },
+            {
+                "image_url": "frontend/benefits/4.png",
+                "title": "Weekly 2 holidays",
+                "sub_title": "Have used Landwind to create functional websites"
+            },
+            {
+                "image_url": "frontend/benefits/5.png",
+                "title": "Yearly Salary Review",
+                "sub_title": "For Landwind, with zero maintenance downtime"
+            },
+            {
+                "image_url": "frontend/benefits/5.png",
+                "title": "Yearly Salary Review",
+                "sub_title": "For Landwind, with zero maintenance downtime"
+            },
+            {
+                "image_url": "frontend/benefits/5.png",
+                "title": "Yearly Salary Review",
+                "sub_title": "For Landwind, with zero maintenance downtime"
+            }
+        ]
+    },
+    {
+        "section_id": 4,
+        "items": [
+            {
+                "title": "Can I use Landwind in open-source projects?",
+                "sub_title": "Landwind is an open-source library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more."
+            },
+            {
+                "title": "Is there a Figma file available?",
+                "sub_title": "Landwind is an open-source library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more."
+            },
+            {
+                "title": "What are the differences between Landwind and Tailwind UI?",
+                "sub_title": "Landwind is an open-source library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more."
+            },
+            {
+                "title": "What about browser support?",
+                "sub_title": "Landwind is an open-source library of interactive components built on top of Tailwind CSS including buttons, dropdowns, modals, navbars, and more."
+            }
+        ]
+    },
+    {
+        "section_id": 5,
+        "items": [
+            {
+                "title": "FIRST STEP",
+                "sub_title": "Signin or Signup to your account",
+                "description": "Get access to over 20+ pages including a dashboard layout, charts, kanban."
+            },
+            {
+                "title": "STEP 2",
+                "sub_title": "Signin or Signup to your account",
+                "description": "Get access to over 20+ pages including a dashboard layout, charts, kanban."
+            },
+            {
+                "title": "STEP 3",
+                "sub_title": "Signin or Signup to your account",
+                "description": "Get access to over 20+ pages including a dashboard layout, charts, kanban."
+            },
+            {
+                "title": "STEP 4",
+                "sub_title": "Signin or Signup to your account",
+                "description": "Get access to over 20+ pages including a dashboard layout, charts, kanban."
+            },
+            {
+                "title": "LAST STEP",
+                "sub_title": "Signin or Signup to your account",
+                "description": "Get access to over 20+ pages including a dashboard layout, charts, kanban."
+            }
+        ]
+    }
+]
